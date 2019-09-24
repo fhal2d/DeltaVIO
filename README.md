@@ -4,7 +4,9 @@ without relocalization, loop detection and closure, and map optimisation.You can
 and with other relocalization or loop techniques to get better result.
 
 # Result
+
 Euroc V201_Easy RMSE:0.058m
+
 ![result](https://github.com/fhal2d/DeltaVIO/blob/master/result.png)
 
 
